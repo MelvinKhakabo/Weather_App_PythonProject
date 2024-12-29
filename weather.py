@@ -1,3 +1,5 @@
+#code to get the weather of a city using the WeatherAPI
+
 import requests
 
 # Replace this with your actual WeatherAPI key
